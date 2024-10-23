@@ -1,3 +1,4 @@
+Projekt jest robiony w Microsoft SQL Server Management 2022 Studio
 SQL projekt do zaliczenia
 Zasady :
 1. 8 poprawnie zaprojektowanych tabel (na osobę), przy czym w bazie danych powinno być minimum 10 tabel
